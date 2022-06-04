@@ -1,7 +1,6 @@
 package org.way2it.oop.lesson2.mycalculator.second;
 
 import java.util.Scanner;
-
 public class Main {
 
     public static void main(String[] args) {

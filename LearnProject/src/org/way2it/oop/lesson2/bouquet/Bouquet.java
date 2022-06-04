@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 public class Bouquet {
     private ArrayList<Flower> bouquet;
-
     public void addFlower(Flower flower){
         if (bouquet == null) {
             bouquet = new ArrayList<Flower>();

@@ -3,10 +3,8 @@ package org.way2it.oop.lesson2.mycalculator.second;
 import org.way2it.oop.lesson2.mycalculator.first.Numerable;
 
 public class MyCalculator implements Numerable {
-
     public double a;
     public double b;
-
     @Override
     public double plus() {
         return a + b;
