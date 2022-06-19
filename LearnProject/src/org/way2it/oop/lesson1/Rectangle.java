@@ -1,4 +1,4 @@
-package org.way2it.data_structures.oop.lesson1;
+package org.way2it.oop.lesson1;
 
 public class Rectangle {
     private int width;
@@ -17,7 +17,6 @@ public class Rectangle {
     public int Perimeter() {
         return (2 * width) + (2 * height);
     }
-
     public int square(){
         return width * height;
     }

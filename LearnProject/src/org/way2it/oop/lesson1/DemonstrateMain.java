@@ -1,4 +1,4 @@
-package org.way2it.data_structures.oop.lesson1;
+package org.way2it.oop.lesson1;
 
 public class DemonstrateMain {
 
@@ -21,5 +21,6 @@ public class DemonstrateMain {
 
         circle.SetDiameter(34);
         System.out.println("Square of circle = "+ circle.Square());
+
     }
 }
